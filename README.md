@@ -1,2 +1,2 @@
-# Whitepaper
+## Whitepaper
 ZentaChain(WP)
