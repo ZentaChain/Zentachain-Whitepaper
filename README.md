@@ -1,2 +1,2 @@
 ## Whitepaper
-ZentaChain(WP)
+The ZentaChain (WP- 1.0)
