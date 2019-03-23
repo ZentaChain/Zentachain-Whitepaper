@@ -1,2 +1,5 @@
-## Whitepaper
-The ZentaChain (WP- 1.0)
+### :blue_book:Zentachain Whitepaper:blue_book:
+
+#### The Zentachain WP 1.0
+
+#### Link:https://zentachain.io/zentachain-whitepaper
