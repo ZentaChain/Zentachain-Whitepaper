@@ -2,7 +2,6 @@
 
 ##### The Zentachain WP 1.0
 
-````
 
-#### Link:https://zentachain.io/zentachain-whitepaper
-````
+###### Link:https://zentachain.io/zentachain-whitepaper
+
