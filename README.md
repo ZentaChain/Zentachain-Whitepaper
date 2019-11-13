@@ -1,6 +1,6 @@
-### *Zentachain Whitepaper*
+### Zentachain Whitepaper
 
-#### *The Zentachain Whitepaper 1.0 2019/Q1*
+#### The Zentachain Whitepaper 1.0 2019/Q1
 
 
 * [Whtiepaper](https://zentachain.io/documents/Zentachain-Whitepaper.pdf)
