@@ -6,7 +6,6 @@
 
 * [Zentachain Whtiepaper Turkish]
 
-* [Zentachain Whtiepaper Russian]
 
 #### The Zentachain Whitepapers 1.2 2019/Q4
 
@@ -14,6 +13,5 @@
 
 * [Zentachain Whtiepaper Turkish]
 
-* [Zentachain Whtiepaper Russian]
 
 ##### *[Copyright all rights reserved Zentachain.io 2017 - 2019]*
