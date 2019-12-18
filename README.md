@@ -7,11 +7,10 @@
 * [Zentachain Whtiepaper Turkish]
 
 
-#### The Zentachain Whitepapers 1.2 2019/Q4
+#### The Zentachain Whitepapers 1.2 2020/Q1
 
 * [Zentachain Whtiepaper English]
 
 * [Zentachain Whtiepaper Turkish]
 
-
-##### *[Copyright all rights reserved Zentachain.io 2017 - 2019]*
+##### *[Copyright all rights reserved Zentachain.io 2017 - 2020]*
