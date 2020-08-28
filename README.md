@@ -4,6 +4,7 @@
 
 * [Zentachain Whitepaper English](https://zentachain.io/documents/Zentachain_Whitepaper.pdf)
 
+* [Zentachain Whitepaper Turkish](https://zentachain.io/documents/ZentachainTurkishWhitepaper.pdf)
 
 * [Zentachain Whitepaper German](https://zentachain.io/documents/Zentachain_Whitepaper_German.pdf)
 
