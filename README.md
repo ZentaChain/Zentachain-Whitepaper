@@ -1,6 +1,6 @@
 ## Zentachain Whitepaper
 
-#### The Zentachain Whitepaper 1.2 2020/Q1
+#### Zentachain Whitepaper 1.2 2020/Q1
 
 * [Zentachain Whitepaper English](https://zentachain.io/documents/Zentachain_Whitepaper.pdf)
 
