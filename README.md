@@ -8,4 +8,4 @@
 
 * [Zentachain Whitepaper German](https://zentachain.io/documents/Zentachain_Whitepaper_German.pdf)
 
-##### Copyright all rights reserved Zentachain.io 2018 - 2020
+##### Copyright all rights reserved Zentachain.io 2018 - 2021
