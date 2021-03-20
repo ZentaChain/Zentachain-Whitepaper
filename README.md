@@ -2,10 +2,9 @@
 
 #### Zentachain Whitepaper 1.2 2020/Q1
 
-* [Zentachain Whitepaper English](#)
+* [Zentachain Whitepaper English](https://zentachain.io/whitepaper/ZentachainWhitepaperEnglish.pdf)
 
-* [Zentachain Whitepaper Turkish](#)
+* [Zentachain Whitepaper Turkish](https://zentachain.io/whitepaper/ZentachainWhitepaperTurkish.pdf)
 
-* [Zentachain Whitepaper German](#)
-
-##### Copyright all rights reserved Zentachain.io 2018 - 2021
+## Copyright
+All rights reserved by Zentachain.io 2018 - 2021
