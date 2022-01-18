@@ -7,4 +7,4 @@
 * [Zentachain Whitepaper Turkish](https://zentachain.io/whitepaper/ZentachainWhitepaperTurkish.pdf)
 
 ## Copyright
-All rights reserved by Zentachain.io 2018 - 2021
+All rights reserved by Zentachain.io 2018 - 2022
